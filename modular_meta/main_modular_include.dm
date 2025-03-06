@@ -20,6 +20,8 @@
 
 /* --TRANSLATIONS-- */
 
+#include "ru_translate\ru_ai_laws\includes.dm"
+
 #if RU_CRAYONS
 	#include "ru_translate\ru_crayons\includes.dm"
 #endif
@@ -27,3 +29,4 @@
 #if RU_VENDORS
 	#include "ru_translate\ru_vendors\includes.dm"
 #endif
+
